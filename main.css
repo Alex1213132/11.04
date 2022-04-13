@@ -1,0 +1,35 @@
+.background {
+  display: flex;
+  width: 1000px;
+  height: 200px;
+  background-color: #ffffff;
+  outline: 2px solid orange;
+}
+.blocklogo {
+  width: 200px;
+  height: 200px;
+  background-color: #ffffff;
+}
+.logo {
+  width: 80px;
+  height: 80px;
+}
+.glass {
+  width: 50px;
+  height: 50px;
+}
+.glass1 {
+  display: flex;
+  width: 200px;
+  height: 80px;
+}
+.glass2 {
+  width: 60px;
+  height: 50px;
+}
+.text {
+  width: 800px;
+  height: 200px;
+  background-color: #ffffff;
+}
+
